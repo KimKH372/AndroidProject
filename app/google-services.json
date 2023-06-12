@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "322235093922",
+    "project_id": "howlstargram-kh",
+    "storage_bucket": "howlstargram-kh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322235093922:android:d7530107de16b1c609d8fb",
+        "android_client_info": {
+          "package_name": "com.example.howlstargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322235093922-i9po9rdcjp4a5f268ubnbpgb0nms11ln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.howlstargram",
+            "certificate_hash": "18d84ffea2f97a51ee0dda14b43e8ca97e41072d"
+          }
+        },
+        {
+          "client_id": "322235093922-26gk7k92qgc7fou74p8d1sm8d14mif2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBugCvInMcviz1KXivQaJgjpywF8-rxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322235093922-26gk7k92qgc7fou74p8d1sm8d14mif2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
